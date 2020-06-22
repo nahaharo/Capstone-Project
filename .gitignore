@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-Geospatial_data.csv
+*.csv
 *.py
+*.json
